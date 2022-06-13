@@ -1,0 +1,19 @@
+{
+  "name": "anonfile-api",
+  "version": "1.0.0",
+  "description": "Nodejs daxilində Anonfiles APİ-ni istifadə etmək üçün modul.",
+  "main": "anonfile-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anonfile",
+    "anonfiles api",
+    "by3lish"
+  ],
+  "author": "By3lish",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
