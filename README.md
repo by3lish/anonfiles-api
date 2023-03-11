@@ -1,6 +1,6 @@
 # Anonfiles API for Nodejs
 ###### Modulu proyektə əlavə etmək :
-`const anonfile = require('anonfile-lib');`
+`const anonfile = require('anonuploader');`
 ###### Fayl yükləmək :
 ```
 anonfile.upload('FAYL ADI').then((info) => {
